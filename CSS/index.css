@@ -12,7 +12,10 @@
     background-color: #273238;
 }
 
-p{color: #CED8D1;}
+p{
+    color: #CED8D1;
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
 
 .ASPIRADORA{
     color: #E6CBBF;
@@ -35,5 +38,24 @@ h2{
 
 }
 .imgcelular{
-    border: 5px solid #A1C1CB;
+    border: 6px solid #A1C1CB;
+}
+
+.consolas{
+    color: #BCBDBF;
+}
+.imgconsola{
+    border: 6px solid #BCBDBF;
+}
+.home{
+    color: #8D94A1;
+}
+.imghome{
+    border: 6px solid  #8D94A1 ;
+}
+.televisores{
+    color: #B2AEA6;
+}
+.imgtelevisores{
+    border: 6px solid #B2AEA6 ;
 }
