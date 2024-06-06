@@ -1,0 +1,39 @@
+
+.tittle{
+
+    color: #698593;
+    background-color:white;
+    height: 70px;
+    font-size: 50px;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+}
+.colorFondo{
+    background-color: #273238;
+}
+
+p{color: #CED8D1;}
+
+.ASPIRADORA{
+    color: #E6CBBF;
+}
+
+img{
+    margin: 10px 40px;
+}
+
+.imgaspiradora{
+    border: 5px solid #B2A29C;
+}
+h2{
+    font-family: Arial, Gadget, sans-serif;
+
+}
+
+.celulares{
+    color: #A1C1CB;
+
+}
+.imgcelular{
+    border: 5px solid #A1C1CB;
+}
